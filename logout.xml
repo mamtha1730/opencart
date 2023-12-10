@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" thread-count="5" parallel="tests">
+	<listeners>
+		<listener class-name="Utilities.ExtentReportManager"/>
+	</listeners>
+	
+  <test thread-count="5" name="chrometest">
+    <parameter name="os" value="Windows"/>
+    <parameter name="browser" value="chrome"/>
+    <groups>
+		<run>
+			<include name ="logout"/>
+			</run>
+	</groups>
+    
+    <classes>
+	  <class name="testCases.TC_001_verify_account_registration"/>
+      <class name="testCases.Tc_002_LoginTest"/> 
+      <class name="testCases.TC_003_LoginDDT"/>
+      <class name="testCases.TC_004_logout"/>
+     </classes>
+  </test> <!-- Test -->
+  
+ </suite> <!-- Suite -->

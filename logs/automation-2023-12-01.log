@@ -1,0 +1,49 @@
+09:52:07.531 [main] INFO  testCases.TC_001_verify_account_registration - Clicked on registration  link
+09:52:07.545 [main] INFO  testCases.TC_001_verify_account_registration - Entering customer
+09:52:09.782 [main] INFO  testCases.TC_001_verify_account_registration - Continue button has been clicked
+09:52:09.783 [main] INFO  testCases.TC_001_verify_account_registration - Validating assertion: 
+09:52:09.849 [main] ERROR testCases.TC_001_verify_account_registration - Test is failed
+09:52:09.849 [main] DEBUG testCases.TC_001_verify_account_registration - debug logs
+09:52:09.852 [main] INFO  testCases.TC_001_verify_account_registration - ******Ending of  TC_001 Account regn test******
+09:52:53.164 [main] INFO  testCases.TC_001_verify_account_registration - ******starting TC_001 Account regn test******
+09:52:53.175 [main] DEBUG testCases.TC_001_verify_account_registration - debug logs started...
+09:52:53.815 [main] INFO  testCases.TC_001_verify_account_registration - Clicked on Myaccount link
+09:52:54.840 [main] INFO  testCases.TC_001_verify_account_registration - Clicked on registration  link
+09:52:54.840 [main] INFO  testCases.TC_001_verify_account_registration - Entering customer
+09:52:57.091 [main] INFO  testCases.TC_001_verify_account_registration - Continue button has been clicked
+09:52:57.092 [main] INFO  testCases.TC_001_verify_account_registration - Validating assertion: 
+09:52:57.156 [main] ERROR testCases.TC_001_verify_account_registration - Test is failed
+09:52:57.156 [main] DEBUG testCases.TC_001_verify_account_registration - debug logs
+09:52:57.161 [main] INFO  testCases.TC_001_verify_account_registration - ******Ending of  TC_001 Account regn test******
+09:57:16.058 [main] INFO  testCases.TC_001_verify_account_registration - ******starting TC_001 Account regn test******
+09:57:16.066 [main] DEBUG testCases.TC_001_verify_account_registration - debug logs started...
+09:57:16.631 [main] INFO  testCases.TC_001_verify_account_registration - Clicked on Myaccount link
+09:57:17.656 [main] INFO  testCases.TC_001_verify_account_registration - Clicked on registration  link
+09:57:17.657 [main] INFO  testCases.TC_001_verify_account_registration - Entering customer
+09:57:19.824 [main] INFO  testCases.TC_001_verify_account_registration - Continue button has been clicked
+09:57:19.824 [main] INFO  testCases.TC_001_verify_account_registration - Validating assertion: 
+09:57:19.906 [main] ERROR testCases.TC_001_verify_account_registration - Test is failed
+09:57:19.906 [main] DEBUG testCases.TC_001_verify_account_registration - debug logs
+09:57:19.911 [main] INFO  testCases.TC_001_verify_account_registration - ******Ending of  TC_001 Account regn test******
+10:17:49.969 [main] INFO  testCases.TC_001_verify_account_registration - ******starting TC_001 Account regn test******
+10:17:49.977 [main] DEBUG testCases.TC_001_verify_account_registration - debug logs started...
+10:17:53.649 [main] INFO  testCases.TC_001_verify_account_registration - Clicked on Myaccount link
+10:17:54.917 [main] INFO  testCases.TC_001_verify_account_registration - Clicked on registration  link
+10:17:54.918 [main] INFO  testCases.TC_001_verify_account_registration - Entering customer
+10:17:57.080 [main] INFO  testCases.TC_001_verify_account_registration - Continue button has been clicked
+10:17:57.081 [main] INFO  testCases.TC_001_verify_account_registration - Validating assertion: 
+10:17:57.156 [main] ERROR testCases.TC_001_verify_account_registration - Test is failed
+10:17:57.157 [main] DEBUG testCases.TC_001_verify_account_registration - debug logs
+10:17:57.163 [main] INFO  testCases.TC_001_verify_account_registration - ******Ending of  TC_001 Account regn test******
+10:26:35.501 [TestNG-tests-1] INFO  testCases.TC_001_verify_account_registration - ******starting TC_001 Account regn test******
+10:26:35.511 [TestNG-tests-1] DEBUG testCases.TC_001_verify_account_registration - debug logs started...
+10:26:38.406 [TestNG-tests-1] INFO  testCases.TC_001_verify_account_registration - Clicked on Myaccount link
+10:26:39.888 [TestNG-tests-1] INFO  testCases.TC_001_verify_account_registration - Clicked on registration  link
+10:26:39.888 [TestNG-tests-1] INFO  testCases.TC_001_verify_account_registration - Entering customer
+10:26:41.059 [TestNG-tests-2] INFO  testCases.TC_001_verify_account_registration - ******starting TC_001 Account regn test******
+10:26:41.060 [TestNG-tests-2] DEBUG testCases.TC_001_verify_account_registration - debug logs started...
+10:26:41.216 [TestNG-tests-2] INFO  testCases.TC_001_verify_account_registration - Clicked on Myaccount link
+10:26:41.657 [TestNG-tests-1] INFO  testCases.TC_001_verify_account_registration - Continue button has been clicked
+10:26:41.657 [TestNG-tests-1] INFO  testCases.TC_001_verify_account_registration - Validating assertion: 
+10:26:41.720 [TestNG-tests-1] ERROR testCases.TC_001_verify_account_registration - Test is failed
+10:26:41.720 [TestNG-tests-1] DEBUG testCases.TC_001_verify_account_registration - debug logs

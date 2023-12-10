@@ -1,0 +1,38 @@
+06:46:42.226 [TestNG-tests-1] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+06:46:42.252 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+06:46:42.254 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+06:46:42.256 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+06:46:42.268 [TestNG-tests-1] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+06:46:42.289 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+06:46:42.291 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+06:46:42.293 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+06:46:42.312 [TestNG-tests-1] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+06:46:42.332 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+06:46:42.333 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+06:46:42.334 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+06:46:42.346 [TestNG-tests-1] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+06:46:42.360 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+06:46:42.361 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+06:46:42.363 [TestNG-tests-1] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+06:46:42.373 [TestNG-tests-1] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+06:46:42.385 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ******Starting TC_003 ******
+06:46:45.839 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ******Finished TC_003******
+06:46:45.845 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ******Starting TC_003 ******
+06:46:59.739 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ******Finished TC_003******
+06:46:59.743 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ******Starting TC_003 ******
+06:47:13.701 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ******Finished TC_003******
+06:47:13.705 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ******Starting TC_003 ******
+06:47:27.788 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ******Finished TC_003******
+06:47:27.791 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ******Starting TC_003 ******
+06:47:31.200 [TestNG-tests-1] INFO  testCases.TC_003_LoginDDT - ******Finished TC_003******
+06:47:36.094 [TestNG-tests-1] INFO  testCases.TC_004_logout - ******Starting TC_004******
+06:47:54.510 [TestNG-tests-1] INFO  testCases.TC_001_verify_account_registration - ******starting TC_001 Account regn test******
+06:47:54.511 [TestNG-tests-1] DEBUG testCases.TC_001_verify_account_registration - debug logs started...
+06:47:55.224 [TestNG-tests-1] INFO  testCases.TC_001_verify_account_registration - Clicked on Myaccount link
+06:47:56.321 [TestNG-tests-1] INFO  testCases.TC_001_verify_account_registration - Clicked on registration  link
+06:47:56.321 [TestNG-tests-1] INFO  testCases.TC_001_verify_account_registration - Entering customer
+06:47:58.712 [TestNG-tests-1] INFO  testCases.TC_001_verify_account_registration - Continue button has been clicked
+06:47:58.712 [TestNG-tests-1] INFO  testCases.TC_001_verify_account_registration - Validating assertion: 
+06:47:58.803 [TestNG-tests-1] ERROR testCases.TC_001_verify_account_registration - Test is failed
+06:47:58.803 [TestNG-tests-1] DEBUG testCases.TC_001_verify_account_registration - debug logs
+06:47:58.803 [TestNG-tests-1] INFO  testCases.TC_001_verify_account_registration - ******Ending of  TC_001 Account regn test******
