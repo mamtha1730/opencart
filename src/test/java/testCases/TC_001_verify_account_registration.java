@@ -52,6 +52,7 @@ public class TC_001_verify_account_registration extends BaseClass
 		}
 		Assert.assertEquals(confirmmsg, "Your Account Has Been Created!");
 		logger.info("******Ending of  TC_001 Account regn test******");
+		//logger.info("Entering customer");
 		}
 		catch(Exception e)
 		{
